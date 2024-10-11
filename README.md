@@ -10,10 +10,10 @@
 
 ## Goal
    This project aims to analyze traffic accident data and identify key trends and insights related to casualties.By doing       so,the project aims to inform policy and decision-making related to road safety, and ultimately help reduce the number of 
-   casualties caused by accidents.
-   Through the use of this dashboard, stakeholders can:
-   Identify high-risk areas and times for road accidents.
-       Analyze the impact of different road and light conditions on accident severity.
+   casualties caused by accidents.</br>
+   Through the use of this dashboard, stakeholders can:</br>
+       Identify high-risk areas and times for road accidents.</br>
+       Analyze the impact of different road and light conditions on accident severity.</br>
        Develop targeted interventions to improve road safety for specific vehicle types and regions.
 
 ## Results
