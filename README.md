@@ -22,7 +22,7 @@
 ## Road Safety Insights & Action Plan
 Analysis of casualty trends shows October and November as high-risk months. To reduce accidents, traffic police and stakeholders should step up efforts during this time.
 
-**Focus Areas:**
+**Focus Areas:** </br>
 Car Drivers: As the largest group of casualties, drivers need targeted awareness campaigns, monitoring, and regular safety checks.
 
 High-Risk Roads: Single carriageways are more dangerous. Add safety measures and, where possible, upgrade to double lanes to reduce accidents.
