@@ -4,7 +4,7 @@
    that summarizes accident details,severity, weather conditions, and more. This dashboard will provide quick insights for 
    informed decision-making and analysis.
 
-### Road Casualty Insights
+## Road Casualty Insights
    The road accident data reveals 417,883 casualties, with only 1.7% (7,135) being fatal. Serious injuries accounted for        14.2% (59,312), while the vast majority—84.1% (351,436)—were slight. This highlights that most accidents resulted in 
    minor injuries, offering a positive outlook on overall accident outcomes.
 
@@ -22,7 +22,7 @@
 ## Road Safety Insights & Action Plan
 Analysis of casualty trends shows October and November as high-risk months. To reduce accidents, traffic police and stakeholders should step up efforts during this time.
 
-Focus Areas:
+**Focus Areas:**
 Car Drivers: As the largest group of casualties, drivers need targeted awareness campaigns, monitoring, and regular safety checks.
 
 High-Risk Roads: Single carriageways are more dangerous. Add safety measures and, where possible, upgrade to double lanes to reduce accidents.
