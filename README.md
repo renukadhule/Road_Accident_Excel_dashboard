@@ -19,6 +19,18 @@
    - Analyze the impact of different road and light conditions on accident severity.</br>
    - Develop targeted interventions to improve road safety for specific vehicle types and regions.
 
+## Road Safety Insights & Action Plan
+Analysis of casualty trends shows October and November as high-risk months. To reduce accidents, traffic police and stakeholders should step up efforts during this time.
+
+Focus Areas:
+Car Drivers: As the largest group of casualties, drivers need targeted awareness campaigns, monitoring, and regular safety checks.
+
+High-Risk Roads: Single carriageways are more dangerous. Add safety measures and, where possible, upgrade to double lanes to reduce accidents.
+
+Road Surfaces: Poor road conditions contribute to accidents. Improve surfaces in high-risk areas to increase safety.
+
+Urban Areas: Urban accidents, especially during the day, require stricter enforcement and safety programs to reduce risks.
+
 ## Results
    The most common type of vehicle involved in road accidents is a car.</br>
    Casualties have declined in 2022 as compared to the previous year.</br>
