@@ -2,10 +2,9 @@
 
 ## Project Overview
 
-   This project visualizes data related to road accidents, focusing on various metrics such as casualties, types of vehicles 
-   involved, road types, and conditions under which accidents occur.The goal is to create a visual, user-friendly dashboard 
-   that summarizes accident details,severity, weather conditions, and more. This dashboard will provide quick insights for 
-   informed decision-making and analysis.
+   This project visualizes data related to road accidents, focusing on various metrics such as casualties, types of vehicles involved, road types, and conditions under which 
+   accidents occur.The goal is to create a visual, user-friendly dashboard that summarizes accident details,severity, weather conditions, and more. This dashboard will
+   provide quick insights for informed decision-making and analysis.
 
 ## Road Casualty Insights
    The road accident data reveals 417,883 casualties, with only 1.7% (7,135) being fatal. Serious injuries accounted for 14.2% (59,312), while the vast majority—84.1% 
