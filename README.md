@@ -36,23 +36,17 @@ Urban Areas: Urban accidents, especially during the day, require stricter enforc
 
 ## Result of Analysis
 
-- 🚗 **Common Vehicle Type:** The most frequently involved vehicle in accidents is the **car**.
+🚗 **Common Vehicle Type:** The most frequently involved vehicle in accidents is the **car**.
 
-- 📉 **Casualty Trends:** Casualties have declined in **2022** compared to the previous year.
+📉 **Casualty Trends:** Casualties have declined in **2022** compared to the previous year.
 
-- 🛣️ **Common Road Type:** The most prevalent road type for accidents is the **single carriageway**.
+🛣️ **Common Road Type:** The most prevalent road type for accidents is the **single carriageway**.
 
-- ☀️ **Weather Conditions:** The leading weather condition during accidents is **dry**.
+☀️ **Weather Conditions:** The leading weather condition during accidents is **dry**.
 
-- 🌆 **Common Accident Area:** The majority of accidents occur in **urban settings**.
+🌆 **Common Accident Area:** The majority of accidents occur in **urban settings**.
 
-- 💡 **Light Conditions:** **Daylight** is the most common lighting condition during road accidents.
+💡 **Light Conditions:** **Daylight** is the most common lighting condition during road accidents.
 
 
-## Results
-   The most common type of vehicle involved in road accidents is a car.</br>
-   Casualties have declined in 2022 as compared to the previous year.</br>
-   The most common road type for road accidents is a single carriageway.</br>
-   The most common weather condition for road accidents is dry.</br>
-   The most common Area for road accident is Urban.</br>
-   The most common Light condition for road accident is Daylight.
+
