@@ -1,4 +1,6 @@
-# 🚑 Road Accident Analysis using Excel
+# 🚑 Comprehensive Road Accident Analysis Dashboard
+
+## Project Overview
 
    This project visualizes data related to road accidents, focusing on various metrics such as casualties, types of vehicles 
    involved, road types, and conditions under which accidents occur.The goal is to create a visual, user-friendly dashboard 
