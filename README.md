@@ -8,8 +8,8 @@
    informed decision-making and analysis.
 
 ## Road Casualty Insights
-   The road accident data reveals 417,883 casualties, with only 1.7% (7,135) being fatal. Serious injuries accounted for        14.2% (59,312), while the vast majority—84.1% (351,436)—were slight. This highlights that most accidents resulted in 
-   minor injuries, offering a positive outlook on overall accident outcomes.
+   The road accident data reveals 417,883 casualties, with only 1.7% (7,135) being fatal. Serious injuries accounted for 14.2% (59,312), while the vast majority—84.1% 
+   (351,436)— were slight. This highlights that most accidents resulted in minor injuries, offering a positive outlook on overall accident outcomes.
 
 
 
@@ -18,7 +18,7 @@
    making related to road safety, and ultimately help reduce the number of casualties caused by accidents.</br>
    
    Through the use of this dashboard, stakeholders can:</br>
-   - Identify high-risk areas and times for road accidents.</br>
+   - Identify high-risk areas and times for road accidents.</br> 
    - Analyze the impact of different road and light conditions on accident severity.</br>
    - Develop targeted interventions to improve road safety for specific vehicle types and regions.
 
