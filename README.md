@@ -34,6 +34,21 @@ Road Surfaces: Poor road conditions contribute to accidents. Improve surfaces in
 
 Urban Areas: Urban accidents, especially during the day, require stricter enforcement and safety programs to reduce risks.
 
+## Result of Analysis
+
+- 🚗 **Common Vehicle Type:** The most frequently involved vehicle in accidents is the **car**.
+
+- 📉 **Casualty Trends:** Casualties have declined in **2022** compared to the previous year.
+
+- 🛣️ **Common Road Type:** The most prevalent road type for accidents is the **single carriageway**.
+
+- ☀️ **Weather Conditions:** The leading weather condition during accidents is **dry**.
+
+- 🌆 **Common Accident Area:** The majority of accidents occur in **urban settings**.
+
+- 💡 **Light Conditions:** **Daylight** is the most common lighting condition during road accidents.
+
+
 ## Results
    The most common type of vehicle involved in road accidents is a car.</br>
    Casualties have declined in 2022 as compared to the previous year.</br>
