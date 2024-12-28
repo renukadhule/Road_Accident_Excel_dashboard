@@ -1,4 +1,5 @@
-# 🚑 Comprehensive Road Accident Analysis Dashboard
+# 🚑 Comprehensive Road Accident Analysis Dashboard**
+<img src = "https://www.maungawhau.school.nz/wp-content/uploads/2024/02/Road-Safety.png" width = "1000" height = "250">
 
 ## Project Overview
 
