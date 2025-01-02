@@ -50,5 +50,8 @@ Urban Areas: Urban accidents, especially during the day, require stricter enforc
 
 💡 **Light Conditions:** **Daylight** is the most common lighting condition during road accidents.
 
-
+## Data Story
+Road accidents can be reduced by simple steps like using public transport, such as buses and metros, to reduce traffic. Better traffic signals and strict enforcement of traffic rules can help avoid confusion and make roads safer.Strict rules and fines for breaking traffic laws, like speeding or jumping red lights, can make people more careful.<br>
+Awareness programs can teach people the importance of safe driving, like following speed limits and staying focused on the road.Regular road inspections and maintenance 
+are important to avoid accidents caused by bad roads or bridges.Public transport should include better lighting, security cameras, and emergency help.
 
