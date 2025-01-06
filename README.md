@@ -55,3 +55,6 @@ Road accidents can be reduced by simple steps like using public transport, such 
 Awareness programs can teach people the importance of safe driving, like following speed limits and staying focused on the road.Regular road inspections and maintenance 
 are important to avoid accidents caused by bad roads or bridges.Public transport should include better lighting, security cameras, and emergency help.
 
+## Dashboard
+
+<img src = "https://github.com/renukadhule/Road_Accident_Excel_dashboard/blob/master/DashBoardImage.png" width = "990" height = "600">
