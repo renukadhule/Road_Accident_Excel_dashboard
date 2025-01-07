@@ -9,6 +9,9 @@
    accidents occur.The goal is to create a visual, user-friendly dashboard that summarizes accident details,severity, weather conditions, and more. This dashboard will
    provide quick insights for informed decision-making and analysis.
 
+## DataSet
+[Dataset Used](https://docs.google.com/spreadsheets/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/edit?usp=drive_link&ouid=114797784304122676087&rtpof=true&sd=true)
+
 ## Road Casualty Insights
    The road accident data reveals 417,883 casualties, with only 1.7% (7,135) being fatal. Serious injuries accounted for 14.2% (59,312), while the vast majority—84.1% 
    (351,436)— were slight. This highlights that most accidents resulted in minor injuries, offering a positive outlook on overall accident outcomes.
@@ -50,5 +53,11 @@ Urban Areas: Urban accidents, especially during the day, require stricter enforc
 
 💡 **Light Conditions:** **Daylight** is the most common lighting condition during road accidents.
 
+## Data Story
+Road accidents can be reduced by simple steps like using public transport, such as buses and metros, to reduce traffic. Better traffic signals and strict enforcement of traffic rules can help avoid confusion and make roads safer.Strict rules and fines for breaking traffic laws, like speeding or jumping red lights, can make people more careful.<br>
+Awareness programs can teach people the importance of safe driving, like following speed limits and staying focused on the road.Regular road inspections and maintenance 
+are important to avoid accidents caused by bad roads or bridges.Public transport should include better lighting, security cameras, and emergency help.
 
+## Dashboard
 
+<img src = "https://github.com/renukadhule/Road_Accident_Excel_dashboard/blob/master/DashBoardImage.png" width = "990" height = "475">
