@@ -60,4 +60,4 @@ are important to avoid accidents caused by bad roads or bridges.Public transport
 
 ## Dashboard
 
-<img src = "https://github.com/renukadhule/Road_Accident_Excel_dashboard/blob/master/DashBoardImage.png" width = "990" height = "475">
+<img src = "https://github.com/renukadhule/Road_Accident_Excel_dashboard/blob/master/DashBoardImage.png" width = "990" height = "470">
